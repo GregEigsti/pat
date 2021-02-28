@@ -17,6 +17,7 @@ You will need to first create a WinLink account that uses your callsign; then, a
 these two entries in the pat configuration
 
 `"mycall": "your_callsign",`
+
 `"secure_login_password": "your_winlink_password",`
 
 You may also wish to change the port that pat runs on and can do that here. Make sure to change
